@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Marc0sVeiga">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marc0sVeiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marc0sVeiga&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marc0sVeiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marc0sVeiga&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
     

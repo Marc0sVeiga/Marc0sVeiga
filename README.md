@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao perfil do Marc0sVeiga 😁
 
- <div>
-   <a href="https://github.com/Marc0sVeiga">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marc0sVeiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0sVeiga&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/Marc0sVeiga">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marc0sVeiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0sVeiga&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
